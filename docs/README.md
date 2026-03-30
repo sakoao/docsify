@@ -16,7 +16,7 @@
 
 ##### ○ EP001-<font color="#DB7093">qq群诶就是玩儿（[👉请戳这里👈](https://qm.qq.com/q/Sfi7gSijia)）</font>
 
-![粉丝群](https://ooo.0x0.ooo/2024/09/06/Ot351X.png)
+![粉丝群](https://api.rls.ovh/adaptive)
 
 
 
