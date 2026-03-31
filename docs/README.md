@@ -8,9 +8,9 @@
 
 ✓ **MIKU的主页：**
 
-🙂 [原谅色的主页](https://91btbt.com)  😀
+🍊 [原谅色的主页](https://91btbt.com)  🍊
 
-
+!(https://api.rls.ovh/adaptive)
 
 
 
@@ -39,7 +39,7 @@
 
 > MIKU（感谢以上项目，让我薅免费）
 
-> MIKU😀
+> MIKU🍉
 
 
 ##### ○ EP001-<font color="#DB7093">飞牛qq群，nas佬聚集地，诶就是玩儿（[👉请戳这里👈](https://qm.qq.com/q/Sfi7gSijia)）</font>
