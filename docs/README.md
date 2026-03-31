@@ -10,7 +10,7 @@
 
 🍊 [原谅色的主页](https://91btbt.com)  🍊
 
-!(https://api.rls.ovh/adaptive)
+![ss](https://api.rls.ovh/adaptive)
 
 
 
