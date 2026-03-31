@@ -11,8 +11,16 @@
 🙂 [原谅色的主页](https://91btbt.com)  😀
 
 
-##### ○ EP002-这个附件网站是docsify+cloudflare搭建，速度还可，慢慢扩充内容。
 
+
+
+##### ○ EP005-我的视频站，来自网络的采集。[👉请戳这里👈](https://libretv66.pages.dev/)
+
+##### ○ EP004-我的随机图床，分享图片。[👉请戳这里👈](https://cloudflare-imgbed-7ty.pages.dev/random?type=img)
+
+##### ○ EP003-我的动漫站，分享图片。[👉请戳这里👈](https://mizuki-blog-95i.pages.dev/)
+
+##### ○ EP002-这个附件网站是docsify+cloudflare搭建，速度还可，慢慢扩充内容。
 
 ##### ○ EP001-<font color="#DB7093">qq群诶就是玩儿（[👉请戳这里👈](https://qm.qq.com/q/Sfi7gSijia)）</font>
 
