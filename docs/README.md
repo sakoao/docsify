@@ -16,28 +16,28 @@
 
 ##### ○ EP005-视频站，来自网络的采集。
 
-[👉请戳这里👈](https://libretv66.pages.dev/)
+
 > MIKU（这个是libretv的空壳加的采集源，是我比较早接触到的，挺好的）💕
 
 > MIKU（喜欢的也可以部署个）
 
-> MIKU（docker和page都可还支持arm）
+> MIKU（docker和page都可还支持arm）[👉请戳这里👈](https://libretv66.pages.dev/)
 
 ##### ○ EP004-随机图床，分享图片。
 
-[👉请戳这里👈](https://cloudflare-imgbed-7ty.pages.dev/random?type=img)
+
 > MIKU（这个存储，有点担心）💕
 
-> MIKU（大手子别打我）
+> MIKU（大手子别打我）[👉请戳这里👈](https://cloudflare-imgbed-7ty.pages.dev/random?type=img)
 
 ##### ○ EP003-动漫站，分享图片。
 
-[👉请戳这里👈](https://mizuki-blog-95i.pages.dev/)
+
 > MIKU（这个主题很不错，动漫风格，感谢作者开源）💕
 
 > MIKU（喜欢的也可以部署个）
 
-> MIKU（mizuki )
+> MIKU（mizuki )[👉请戳这里👈](https://mizuki-blog-95i.pages.dev/)
 
 
 ##### ○ EP002-docsify+cloudflare搭建，速度还可，慢慢扩充内容。
@@ -48,8 +48,8 @@
 > MIKU🍉
 
 
-##### ○ EP001-<font color="#DB7093">飞牛qq群，nas佬聚集地，诶就是玩儿（[👉请戳这里👈](https://qm.qq.com/q/Sfi7gSijia)）</font>
-
+##### ○ EP001-<font color="#DB7093">飞牛qq群，nas佬聚集地，诶就是玩儿</font>
+>[👉请戳这里👈](https://qm.qq.com/q/Sfi7gSijia)
 ![粉丝群](https://api.rls.ovh/adaptive)
 
 
