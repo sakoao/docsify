@@ -16,7 +16,7 @@
 
 
 
-##### **EP005-视频站，来自网络的采集。**
+##### **EP005-视频站，来自网络的采集**
 > MIKU（这个是libretv的空壳加的采集源，是我比较早接触到的，挺好的）💕
 
 > MIKU（喜欢的也可以部署个）
@@ -25,13 +25,13 @@
 
 
 
-##### **EP004-随机图床，分享图片。**
-> MIKU（这个存储，有点担心）💕
+##### **EP004-随机图床，分享图片**
+> MIKU（这个存储，有点担心）💕[ss](https://api.rls.ovh/adaptive)
 
 > MIKU（大手子别打我）[👉请戳这里👈](https://cloudflare-imgbed-7ty.pages.dev/random?type=img)
 
 
-##### **EP003-动漫站，分享图片。**
+##### **EP003-动漫主题站，可分享日志**
 > MIKU（这个主题很不错，动漫风格，感谢作者开源）💕
 
 > MIKU（喜欢的也可以部署个）
@@ -39,7 +39,7 @@
 > MIKU（mizuki )[👉请戳这里👈](https://mizuki-blog-95i.pages.dev/)
 
 
-##### **EP002-docsify+cloudflare搭建，速度还可，慢慢扩充内容。**
+##### **EP002-docsify+cloudflare搭建，速度还可，慢慢扩充内容**
 > MIKU（github仓库+docsify+cloudflare+cdn优选）💕
 
 > MIKU（感谢以上项目，让我薅免费）
@@ -48,12 +48,15 @@
 
 
 ##### **EP001-<font color="#DB7093">飞牛qq群，nas佬聚集地，诶就是玩儿</font>**
+> MIKU🍉
+
 >[👉请戳这里👈](https://qm.qq.com/q/Sfi7gSijia)
+
 ![粉丝群](https://api.rls.ovh/adaptive)
 
+<hr>
 
-
-***<font color="#00CAE1">● 提示：如有失效附件，请务必等待！！！</font>***
+***<font color="#00CAE1">● 提示：如有失效或缓慢，请务必反馈修复！！！</font>***
 
 ***<font color="#FF725C">● 注意！请将附件先转存到本地！！避免失效和谐！！！！</font>***
 
